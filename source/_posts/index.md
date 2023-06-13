@@ -1,6 +1,6 @@
 ---
 title: Index
-academia: true
+academia: false
 ---
 
 # academia-hexo-netlify-cms-vercel
