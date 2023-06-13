@@ -2,7 +2,7 @@ backend:
   name: github
   repo: jattaHIT/academia-hexo-netlify-cms-vercel # Path to your Github/Gitlab repository
   branch: main # Branch to update
-  base_url: https://zhangjiahao.net
+  base_url: https://www.zhangjiahao.net
 
 # These lines should *not* be indented
 media_folder: 'source/images' # Media files will be stored in the repo under source/images
